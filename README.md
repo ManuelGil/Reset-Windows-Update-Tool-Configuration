@@ -103,5 +103,5 @@ See also the list of [contributors](https://github.com/ManuelGil/Reset-Windows-U
 <a name="license"></a>
 ## License
 
-WURESET Configuration is licensed under the [GNU GPL v3 License - see the
+WURESET Configuration is licensed under the GPL v3 License - see the
  [GNU GPL v3 License](https://www.gnu.org/licenses/gpl-3.0) for details.
