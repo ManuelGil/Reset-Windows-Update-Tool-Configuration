@@ -1,0 +1,9 @@
+# File of example
+# Reset Windows Update Tool
+# .\wureset\lang\
+# spanish.txt
+
+# This is a commentary on an original document.
+# This file containing the language description.
+
+# Author: Manuel Gil.
