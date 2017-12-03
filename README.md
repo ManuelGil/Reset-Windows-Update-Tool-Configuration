@@ -24,7 +24,7 @@ This tool allows you to make changes to the language from a plain text file and
  select the font color.
 
 <a name="started"></a>
-## Getting Started
+## :traffic_light: Getting Started
 
 This page will help you get started with WURESET Configuration Tool.
 
@@ -43,12 +43,12 @@ This page will help you get started with WURESET Configuration Tool.
   4. Goto "File" > "Open project" > Search "WURESETConfig.vbp" file
 
 <a name="built"></a>
-## Built With
+## :wrench: Built With
 
   * Microsoft Visual Studio 6.0
 
 <a name="changelog"></a>
-## Changelog
+## :information_source: Changelog
 
 **1.0.0.2** (07/01/2018)
 
@@ -85,15 +85,15 @@ This page will help you get started with WURESET Configuration Tool.
 		</tr>
 	</table>
 
-<a name="Donating"></a>
-## Donating
+<a name="Donate"></a>
+## :gift: Donate!
 
 If you want to help me to continue this project, you might donate via PayPal.
 
-<a href="https://paypal.me/ManuelFGil"><img src="https://img.shields.io/badge/donate-PayPal-blue.svg" alt="Donate via PayPal"></a>
+<a href="https://paypal.me/ManuelFGil"><img src="https://www.paypalobjects.com/webstatic/en_US/i/btn/png/btn_donate_92x26.png" alt="Donate via PayPal"></a>
 
 <a name="authors"></a>
-## Authors
+## :eyeglasses: Authors
 
   * **Manuel Gil** - *Initial work* - [ManuelGil](https://github.com/ManuelGil) 
 
@@ -101,7 +101,7 @@ See also the list of [contributors](https://github.com/ManuelGil/Reset-Windows-U
  who participated in this project.
 
 <a name="license"></a>
-## License
+## :memo: License
 
 WURESET Configuration is licensed under the GPL v3 License - see the
  [GNU GPL v3 License](https://www.gnu.org/licenses/gpl-3.0) for details.
