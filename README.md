@@ -50,7 +50,7 @@ This page will help you get started with WURESET Configuration Tool.
 <a name="changelog"></a>
 ## :information_source: Changelog
 
-**1.0.0.2** (07/01/2018)
+**1.0.0.2** (11/28/2018)
 
   * <table border="0" cellpadding="4">
 		<tr>
