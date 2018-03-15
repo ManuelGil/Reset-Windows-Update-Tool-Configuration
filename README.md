@@ -10,7 +10,7 @@
 		<img src="https://img.shields.io/badge/release-v1.0.0.3-blue.svg" alt="Version">
 	</a>
 	<a href="#changelog">
-		<img src="https://img.shields.io/badge/update-november-yellowgreen.svg" alt="Update">
+		<img src="https://img.shields.io/badge/update-march-yellowgreen.svg" alt="Update">
 	</a>
 	<a href="#license">
 		<img src="https://img.shields.io/badge/license-GPL%20v3%20License-green.svg" alt="License">
