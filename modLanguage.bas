@@ -1,7 +1,7 @@
 Attribute VB_Name = "modLAnguage"
 '    This file is part of WURESET Configuration Project
 '    WURESET Config Free GNU Application
-'    Copyright (C) 2017 Manuel Gil.
+'    Copyright (C) 2018 Manuel Gil.
 '
 '    This program is free software: you can redistribute it and/or modify
 '    it under the terms of the GNU General Public License as published by
@@ -24,7 +24,7 @@ Attribute VB_Name = "modLAnguage"
 ' $Copyright: GPL product. $
 '
 ' $Author: Manuel Gil. $
-' $version: 1.0.0.2. $
+' $version: 1.0.0.3. $
 ' -----------------------------------------------------------------
 
 Option Explicit

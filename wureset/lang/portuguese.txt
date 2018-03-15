@@ -1,23 +1,23 @@
 # File of example
 # Reset Windows Update Tool
 # .\wureset\lang\
-# !empty.txt
+# portuguese.txt
 
 # This is a commentary on an original document.
 # This file can be modificated to be compatible with others languages.
 # For print the end line insert "\n" into the text.
 # Save text file with ANSI Encoding, not UTF-8
 
-# Language: No-Language (Demo)
+# Language: Portuguese (Beta)
 # Author: Manuel Gil.
 # Updated: 03/10/2018
 # Version: 1.0.0.0
 
 # Warnings
-1000|
-1001|
-1002| 
-1003|
-1004|
-1005|
-1006|
+1000|Pressione qualquer tecla para continuar . . .
+1001|Ocorreu um erro inesperado.
+1002|Escolha uma opção: 
+1003|Opção inválida.
+1004|Lamentamos, esta opção não está disponível neste sistema operacional.
+1005|A operação foi concluída com sucesso.
+1006|Ocorreu um erro durante a operação.

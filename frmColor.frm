@@ -2,7 +2,7 @@ VERSION 5.00
 Begin VB.Form frmColor 
    BorderStyle     =   4  'Fixed ToolWindow
    Caption         =   "Font Color"
-   ClientHeight    =   3135
+   ClientHeight    =   2535
    ClientLeft      =   45
    ClientTop       =   360
    ClientWidth     =   2070
@@ -10,19 +10,10 @@ Begin VB.Form frmColor
    LinkTopic       =   "Form1"
    MaxButton       =   0   'False
    MinButton       =   0   'False
-   ScaleHeight     =   3135
+   ScaleHeight     =   2535
    ScaleWidth      =   2070
    ShowInTaskbar   =   0   'False
    StartUpPosition =   3  'Windows Default
-   Begin VB.CommandButton btnClose 
-      Caption         =   "Close"
-      Default         =   -1  'True
-      Height          =   375
-      Left            =   240
-      TabIndex        =   15
-      Top             =   2520
-      Width           =   1575
-   End
    Begin VB.Frame Frame1 
       Caption         =   "Font"
       BeginProperty Font 
@@ -244,7 +235,7 @@ Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 '    This file is part of WURESET Configuration Project
 '    WURESET Config Free GNU Application
-'    Copyright (C) 2017 Manuel Gil.
+'    Copyright (C) 2018 Manuel Gil.
 '
 '    This program is free software: you can redistribute it and/or modify
 '    it under the terms of the GNU General Public License as published by
@@ -267,7 +258,7 @@ Attribute VB_Exposed = False
 ' $Copyright: GPL product. $
 '
 ' $Author: Manuel Gil. $
-' $version: 1.0.0.2. $
+' $version: 1.0.0.3. $
 ' -----------------------------------------------------------------
 
 Option Explicit
@@ -280,11 +271,5 @@ Option Explicit
 ' void picBackcolor_Click()
 Private Sub picBackcolor_Click(Index As Integer)
     fMainForm.txtFont.Text = Index
-End Sub
-
-' Subroutine Click on Button btnClose
-' void btnClose_Click()
-Private Sub btnClose_Click()
     Unload Me
 End Sub
-

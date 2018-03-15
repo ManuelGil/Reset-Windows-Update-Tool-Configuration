@@ -1,0 +1,23 @@
+# File of example
+# Reset Windows Update Tool
+# .\wureset\lang\
+# italian.txt
+
+# This is a commentary on an original document.
+# This file can be modificated to be compatible with others languages.
+# For print the end line insert "\n" into the text.
+# Save text file with ANSI Encoding, not UTF-8
+
+# Language: Italian (Beta)
+# Author: Manuel Gil.
+# Updated: 03/10/2018
+# Version: 1.0.0.0
+
+# Warnings
+1000|Premere un tasto qualsiasi per continuare . . .
+1001|Si è verificato un errore imprevisto.
+1002|Scegli un'opzione: 
+1003|Opzione non valida.
+1004|Siamo spiacenti, questa opzione non è disponibile in questo sistema operativo.
+1005|L'operazione è stata completata con successo.
+1006|Si è verificato un errore durante l'operazione.

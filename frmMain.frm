@@ -1,7 +1,7 @@
 VERSION 5.00
 Begin VB.Form frmMain 
    BorderStyle     =   4  'Fixed ToolWindow
-   Caption         =   "RWUT Config"
+   Caption         =   "WURESET Config"
    ClientHeight    =   4350
    ClientLeft      =   45
    ClientTop       =   360
@@ -133,7 +133,7 @@ Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 '    This file is part of WURESET Configuration Project
 '    WURESET Config Free GNU Application
-'    Copyright (C) 2017 Manuel Gil.
+'    Copyright (C) 2018 Manuel Gil.
 '
 '    This program is free software: you can redistribute it and/or modify
 '    it under the terms of the GNU General Public License as published by
@@ -156,7 +156,7 @@ Attribute VB_Exposed = False
 ' $Copyright: GPL product. $
 '
 ' $Author: Manuel Gil. $
-' $version: 1.0.0.2. $
+' $version: 1.0.0.3. $
 ' -----------------------------------------------------------------
 
 Option Explicit
@@ -229,5 +229,6 @@ Private Sub btnSave_Click()
         ' Save Program Language And Program Font
         SaveSettings
         MsgBox "The operation completed successfully."
+        Unload Me
     End If
 End Sub

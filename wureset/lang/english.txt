@@ -4,6 +4,20 @@
 # english.txt
 
 # This is a commentary on an original document.
-# This file containing the language description.
+# This file can be modificated to be compatible with others languages.
+# For print the end line insert "\n" into the text.
+# Save text file with ANSI Encoding, not UTF-8
 
+# Language: English
 # Author: Manuel Gil.
+# Updated: 03/10/2018
+# Version: 1.0.0.0
+
+# Warnings
+1000|Press any key to continue . . .
+1001|An unexpected error has occurred.
+1002|Select an option: 
+1003|Invalid option.
+1004|Sorry, this option is not available on this Operative System.
+1005|The operation completed successfully.
+1006|An error occurred during operation.

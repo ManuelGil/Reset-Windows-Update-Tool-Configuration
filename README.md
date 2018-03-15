@@ -7,7 +7,7 @@
 		<img src="https://img.shields.io/badge/stability-stable-green.svg" alt="Status">
 	</a>
 	<a href="#changelog">
-		<img src="https://img.shields.io/badge/release-v1.0.0.2-blue.svg" alt="Version">
+		<img src="https://img.shields.io/badge/release-v1.0.0.3-blue.svg" alt="Version">
 	</a>
 	<a href="#changelog">
 		<img src="https://img.shields.io/badge/update-november-yellowgreen.svg" alt="Update">
@@ -49,6 +49,44 @@ This page will help you get started with WURESET Configuration Tool.
 
 <a name="changelog"></a>
 ## :information_source: Changelog
+
+**1.0.0.3** (03/14/2018)
+
+  * <table border="0" cellpadding="4">
+		<tr>
+			<td>
+				<strong>Language:</strong>
+			</td>
+			<td>
+				Visual Basic 6.0
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Filename:</strong>
+			</td>
+			<td>
+				<a href="https://github.com/ManuelGil/Reset-Windows-Update-Tool-Configuration">
+					wureset config.exe
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Changes:</strong>
+			</td>
+			<td>
+				<ul>
+					<li>
+						Automatic close of forms
+					</li>
+					<li>
+						Changing the location of the configuration file
+					</li>
+				</ul>
+			</td>
+		</tr>
+	</table>
 
 **1.0.0.2** (11/28/2017)
 

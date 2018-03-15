@@ -1,7 +1,7 @@
 Attribute VB_Name = "modMain"
 '    This file is part of WURESET Configuration Project
 '    WURESET Config Free GNU Application
-'    Copyright (C) 2017 Manuel Gil.
+'    Copyright (C) 2018 Manuel Gil.
 '
 '    This program is free software: you can redistribute it and/or modify
 '    it under the terms of the GNU General Public License as published by
@@ -24,7 +24,7 @@ Attribute VB_Name = "modMain"
 ' $Copyright: GPL product. $
 '
 ' $Author: Manuel Gil. $
-' $version: 1.0.0.2. $
+' $version: 1.0.0.3. $
 ' -----------------------------------------------------------------
 
 Option Explicit
@@ -53,15 +53,18 @@ Public fMainForm As frmMain
 Public Sub Main()
     ' Declare the variables
     Dim fMainShow As String
+    Dim appData As String
     
     ' Single Instance
     If App.PrevInstance Then End
 
+    appData = Environ("APPDATA")
+    
     ' Set the path of the Application
-    If Right(App.Path, 1) = "\" Then
-        settingsFile = App.Path & "wureset\settings.ini"
+    If Right(appData, 1) = "\" Then
+        settingsFile = appData & "wureset\settings.ini"
     Else
-        settingsFile = App.Path & "\wureset\settings.ini"
+        settingsFile = appData & "\wureset\settings.ini"
     End If
     
     ' Show frmMain

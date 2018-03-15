@@ -4,6 +4,20 @@
 # spanish.txt
 
 # This is a commentary on an original document.
-# This file containing the language description.
+# This file can be modificated to be compatible with others languages.
+# For print the end line insert "\n" into the text.
+# Save text file with ANSI Encoding, not UTF-8
 
+# Language: Spanish (Latam)
 # Author: Manuel Gil.
+# Updated: 03/10/2018
+# Version: 1.0.0.0
+
+# Warnings
+1000|Pulse cualquier tecla para continuar . . .
+1001|Se ha producido un error inesperado.
+1002|Seleccione una opción: 
+1003|Opción no válida.
+1004|Lo sentimos, esta opción no está disponible en este Sistema Operativo.
+1005|La operación se completó correctamente.
+1006|Se ha producido un error durante la operación.

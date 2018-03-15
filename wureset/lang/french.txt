@@ -1,0 +1,23 @@
+# File of example
+# Reset Windows Update Tool
+# .\wureset\lang\
+# french.txt
+
+# This is a commentary on an original document.
+# This file can be modificated to be compatible with others languages.
+# For print the end line insert "\n" into the text.
+# Save text file with ANSI Encoding, not UTF-8
+
+# Language: French (Beta)
+# Author: Manuel Gil.
+# Updated: 03/10/2018
+# Version: 1.0.0.0
+
+# Warnings
+1000|Appuyez sur n'importe quelle touche pour continuer . . .
+1001|Une erreur inattendue s'est produite.
+1002|Choisissez une option: 
+1003|Option invalide.
+1004|Nous sommes désolés, cette option n'est pas disponible dans ce système d'exploitation.
+1005|L'opération s'est terminée avec succès.
+1006|Une erreur est survenue pendant l'opération.
